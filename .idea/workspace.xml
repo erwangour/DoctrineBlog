@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="1b6077ba-0cd2-4ea5-8282-41531b72d3ec" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings" doNotAsk="true" synchronizationState="SYNCHRONIZE">
+    <pharConfigPath>$PROJECT_DIR$/composer.json</pharConfigPath>
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration">
+    <include_path>
+      <path value="$PROJECT_DIR$/vendor/symfony/service-contracts" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-mbstring" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/orm" />
+      <path value="$PROJECT_DIR$/vendor/symfony/console" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/inflector" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-php73" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/event-manager" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/cache" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/persistence" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/dbal" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/reflection" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/lexer" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/annotations" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/common" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/instantiator" />
+      <path value="$PROJECT_DIR$/vendor/psr/container" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/collections" />
+      <path value="$PROJECT_DIR$/vendor/ocramius/package-versions" />
+      <path value="$PROJECT_DIR$/vendor/composer" />
+    </include_path>
+  </component>
+  <component name="ProjectId" id="1YvhAO1eAUsuCsNBHXzkCmYnLcO" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\wamp64\www\doctrine" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\wamp64\www\doctrine\js" />
+      <recent name="C:\wamp64\www\doctrine" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1b6077ba-0cd2-4ea5-8282-41531b72d3ec" name="Default Changelist" comment="" />
+      <created>1583828830409</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1583828830409</updated>
+      <workItem from="1583828831911" duration="3105000" />
+      <workItem from="1583844074280" duration="8144000" />
+      <workItem from="1583853694192" duration="803000" />
+      <workItem from="1584008324786" duration="45000" />
+      <workItem from="1584008431661" duration="17000" />
+      <workItem from="1584438006262" duration="584000" />
+      <workItem from="1584438640349" duration="6330000" />
+      <workItem from="1584562690286" duration="839000" />
+      <workItem from="1584576055158" duration="6049000" />
+      <workItem from="1584615615652" duration="10000" />
+      <workItem from="1584647940938" duration="5524000" />
+      <workItem from="1584654235929" duration="421000" />
+      <workItem from="1584704343145" duration="160000" />
+      <workItem from="1584706725916" duration="1528000" />
+      <workItem from="1584713358332" duration="1081000" />
+      <workItem from="1584729010538" duration="167000" />
+      <workItem from="1584729185857" duration="309000" />
+      <workItem from="1584826963872" duration="4678000" />
+      <workItem from="1584838004835" duration="1551000" />
+      <workItem from="1584883265844" duration="1455000" />
+      <workItem from="1584979816779" duration="2307000" />
+      <workItem from="1585053648505" duration="3597000" />
+      <workItem from="1585128217649" duration="64000" />
+      <workItem from="1585423680875" duration="7182000" />
+      <workItem from="1585488183171" duration="4059000" />
+      <workItem from="1585493240837" duration="518000" />
+      <workItem from="1585496409644" duration="49000" />
+      <workItem from="1585496895924" duration="1231000" />
+      <workItem from="1585498470468" duration="21000" />
+      <workItem from="1585590192438" duration="3363000" />
+      <workItem from="1585664315018" duration="2000000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="UnknownFeatures">
+    <option featureType="com.intellij.fileTypeFactory" implementationName="*.php" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="523" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1584438416253">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="523" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1536.824@0.0.1536.824" timestamp="1584438416253" />
+    <state x="549" y="168" key="FileChooserDialogImpl" timestamp="1585498490017">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="549" y="168" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1585498490017" />
+    <state x="331" y="237" key="NewPhpClassDialog" timestamp="1585432261527">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="331" y="237" key="NewPhpClassDialog/0.0.1536.824@0.0.1536.824" timestamp="1585432261527" />
+    <state x="220" y="340" key="NewPhpFileDialog" timestamp="1585592528685">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="220" y="340" key="NewPhpFileDialog/0.0.1536.824@0.0.1536.824" timestamp="1585592528685" />
+    <state x="367" y="110" width="981" height="707" key="SettingsEditor" timestamp="1585424454302">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="367" y="110" width="981" height="707" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1585424454302" />
+    <state x="463" y="10" width="609" height="804" key="find.popup" timestamp="1584438577752">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="463" y="10" width="609" height="804" key="find.popup/0.0.1536.824@0.0.1536.824" timestamp="1584438577752" />
+  </component>
+</project>

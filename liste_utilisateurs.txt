@@ -1,0 +1,22 @@
+------------------------------------------------------
+		UTILISATEURS
+------------------------------------------------------
+
+Admin : 
+
+login = admin
+Mot de passe = bonjour
+
+--------------------------------------
+
+Booba : 
+
+login = booba
+Mot de passe = booba
+
+--------------------------------------
+
+Tupac : 
+
+login = tupac
+Mot de passe = tupac
